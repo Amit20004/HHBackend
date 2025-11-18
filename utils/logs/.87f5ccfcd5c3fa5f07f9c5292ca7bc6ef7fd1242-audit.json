@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\handhyundainew\\backend\\utils\\logs\\.87f5ccfcd5c3fa5f07f9c5292ca7bc6ef7fd1242-audit.json",
+    "files": [
+        {
+            "date": 1762238474302,
+            "name": "D:\\handhyundainew\\backend\\utils\\logs\\error-2025-11-04.log",
+            "hash": "1d327eb0c2cefa4353487645ddc13535ad29e5ea5ec7e7e0cbfd0f19bdedbe29"
+        },
+        {
+            "date": 1762320966647,
+            "name": "D:\\handhyundainew\\backend\\utils\\logs\\error-2025-11-05.log",
+            "hash": "d8ee3cb2a03142416bc9c48ff6f6869a7544d8787985834bdcfa6adfab592049"
+        },
+        {
+            "date": 1762405742678,
+            "name": "D:\\handhyundainew\\backend\\utils\\logs\\error-2025-11-06.log",
+            "hash": "ec21477417c833d6004a51811bbfcb9677ba63cc271cffd448a86196a6cdd507"
+        },
+        {
+            "date": 1762489679336,
+            "name": "D:\\handhyundainew\\backend\\utils\\logs\\error-2025-11-07.log",
+            "hash": "35f0f052764f5424b33e953961b3745b940c0af90710b22d37293f5833f87bd6"
+        },
+        {
+            "date": 1763361659941,
+            "name": "D:\\handhyundainew\\backend\\utils\\logs\\error-2025-11-17.log",
+            "hash": "ca39e72ae326a0ed5104242e80ed03669451b11b0320c9ca5f639300ccfd8eb1"
+        },
+        {
+            "date": 1763442407032,
+            "name": "D:\\handhyundainew\\backend\\utils\\logs\\error-2025-11-18.log",
+            "hash": "cbdee08c8694c655277c2f309aa7632e77c252724270fece9eeb93805b18d6a1"
+        }
+    ],
+    "hashType": "sha256"
+}

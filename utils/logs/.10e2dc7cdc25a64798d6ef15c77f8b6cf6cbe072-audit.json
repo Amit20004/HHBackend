@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\.10e2dc7cdc25a64798d6ef15c77f8b6cf6cbe072-audit.json",
+    "files": [
+        {
+            "date": 1755923312881,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-08-23.log",
+            "hash": "4f8336500b123e097ccc78e9a6fbf16cffe55fb5d6f0cb5bab0bef6fee004d47"
+        },
+        {
+            "date": 1756112724575,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-08-25.log",
+            "hash": "34dc80f9b1289ecf46e2a2076e9d59cfa49e3f242e0e8c1d36918ae36aaac77c"
+        },
+        {
+            "date": 1756189736533,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-08-26.log",
+            "hash": "e5a1ce05791a140fd0b642bfb512bd7a159a6e7c05fdb1227ec4e8aaa84d1286"
+        },
+        {
+            "date": 1756269004317,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-08-27.log",
+            "hash": "aeddaed6c5341b89bca5b4cea69a9405048ab9727dd6018f2ad624ff260cfbdd"
+        },
+        {
+            "date": 1756354851228,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-08-28.log",
+            "hash": "27b4749335903168abcb0762dbf69f16d10fca18ba19a5d545f4be8635461d3f"
+        },
+        {
+            "date": 1756442528908,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-08-29.log",
+            "hash": "c169950891de3cc369a1a90eef0ea3f3c7d3d304fc99cf6e24436e6bb68029d9"
+        },
+        {
+            "date": 1756541913667,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-08-30.log",
+            "hash": "c8651ee146a6f25c5dc767419391a4992be1b40a56d5f4e44c56ad4b79d4d4bb"
+        },
+        {
+            "date": 1756734241801,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-09-01.log",
+            "hash": "82d810e61ba769d76bf2906044151fe6b760f61e00e6c3fa5a9e82474d9313e3"
+        },
+        {
+            "date": 1756786806340,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-09-02.log",
+            "hash": "16263d0cb034f086ce341b5ba769d8125cae156f35960e9d7b05042b4790c6d4"
+        },
+        {
+            "date": 1756873974366,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-09-03.log",
+            "hash": "8d8f42b9fe61c1be7a6dc8717da9bf55256df789a66b0480fd902482df985469"
+        },
+        {
+            "date": 1756964697747,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-09-04.log",
+            "hash": "1304a535f6a75339fa81136084df6a1c82ee4a45269c2f5e28b5359359a4ae2d"
+        },
+        {
+            "date": 1757050989958,
+            "name": "C:\\Users\\Galaxy\\Downloads\\handhyundainew\\backend\\utils\\logs\\combined-2025-09-05.log",
+            "hash": "609ef8a6bc6d80dd03e975a181761915f1409243b87dc917b27d8b905a89ab04"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,12 +1,13 @@
 const mysql = require('mysql2');
 // const logger = require('./utils/logger/logger'); // assuming logger is correctly configured
+require('dotenv').config();
 
 // Create a connection pool (better for performance than a single connection)
 const pool = mysql.createPool({
-  host: 'localhost',
-  user: 'root',
-  password: '' ,
-  database: 'hanshyundai',
+  host: process.env.DB_HOST || 'localhost',
+  user: process.env.DB_USER || 'root',
+  password: process.env.DB_PASSWORD || '',
+  database: process.env.DB_NAME || 'hanshyundai',
   waitForConnections: true,
   connectionLimit: 10,
   queueLimit: 0
